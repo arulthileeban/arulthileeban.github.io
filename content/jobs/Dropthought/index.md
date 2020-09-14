@@ -1,5 +1,5 @@
 ---
-date: '2015-12-21'
+date: '2020'
 title: 'Software Engineering Intern'
 company: 'Dropthought'
 location: 'Santa Clara, CA'

@@ -1,14 +1,12 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '1'
+title: 'Image Encrypting using SAE'
+cover: './demo.png'
+github: 'https://github.com/arulthileeban/SAE-Encryption'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Keras
+  - Jupyter Notebook
+  - Tensorflow
 showInProjects: true
 ---
-
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Encryption of images by using weights of the current layer as the input for the encryption of image in the next layer. Undergoes multiple layers of encryption which can be decrypted by using the decoder part of the SAE(Stacked auto encoder)

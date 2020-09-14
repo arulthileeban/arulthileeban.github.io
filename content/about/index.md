@@ -6,13 +6,14 @@ skills:
 - Java
 - C++/C
 - Bash
-- C
 - Ruby
 - PHP
 - Android Development
+- Jira
 - AWS|GCP
-- Docker|Jenkins|Jira
+- Docker|Jenkins
 - Git|Perforce
 - SQL|NoSQL
+---
 
 Hello! I'm Arul. Gotta update the content. Stay tuned

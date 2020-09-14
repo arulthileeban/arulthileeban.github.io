@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2018'
 title: 'Software Development Engineering Intern'
 company: 'Amazon'
 location: 'Chennai, India'

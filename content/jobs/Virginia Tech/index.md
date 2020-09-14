@@ -1,5 +1,5 @@
 ---
-date: '2016-12-21'
+date: '2021'
 title: 'Graduate Research Assistantship'
 company: 'Virginia Tech - ITSL'
 location: 'Blacksburg, VA'
