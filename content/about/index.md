@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './miami3.png'
 skills:
 - Python
 - Java
@@ -16,4 +16,4 @@ skills:
 - SQL|NoSQL
 ---
 
-Hello! I'm Arul. Gotta update the content. Stay tuned
+Hello! I'm Arul if you have skipped the previous part. Listed below are some skills which are part of my  most frequently used tech stack.In reality, I'm more of a language agnostic coder.

@@ -5,8 +5,7 @@ github: ''
 external: 'https://link.springer.com/chapter/10.1007/978-3-030-16681-6_32'
 tech:
   - Python
-  -
-  NS3
+  -  NS3
   - Veins
 showInProjects: true
 ---
