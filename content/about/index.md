@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './miami3.png'
+avatar: './bb_snow.jpeg'
 skills:
 - Python
 - Java
