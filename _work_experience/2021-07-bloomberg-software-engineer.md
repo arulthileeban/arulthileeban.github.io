@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bloomberg L.P. — Software Engineer, Edge Access and Security"
+title: "Bloomberg, Edge Access and Security (Software Engineer)"
 collection: work_experience
 permalink: /work_experience/bloomberg-software-engineer/
 start: 2021-07

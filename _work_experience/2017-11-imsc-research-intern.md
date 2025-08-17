@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Institute of Mathematical Sciences — Research Intern"
+title: "Institute of Mathematical Sciences (Research Intern)"
 collection: work_experience
 permalink: /work_experience/imsc-research-intern/
 start: 2017-11

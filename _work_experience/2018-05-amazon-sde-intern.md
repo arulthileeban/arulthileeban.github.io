@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Amazon — SDE Intern, Alexa Communications"
+title: "Amazon, Alexa Communications (SDE Intern)"
 collection: work_experience
 permalink: /work_experience/amazon-sde-intern/
 start: 2018-05

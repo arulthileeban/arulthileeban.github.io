@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "PhishCCA — Phishing Classification"
+title: "PhishCCA"
 collection: projects
 permalink: /projects/phishcca/
 year: 2023

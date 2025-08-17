@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Envoy — Open Source Contributions"
+title: "Envoy"
 collection: projects
 permalink: /projects/envoy-contributions/
 year: 2024

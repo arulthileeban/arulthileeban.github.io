@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Firefox — Defensive CSP Filters"
+title: "Firefox"
 collection: projects
 permalink: /projects/firefox-contrib/
 year: 2021

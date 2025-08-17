@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ORDR — SDE Intern, Threat Detection"
+title: "ORDR, Threat Detection (SDE Intern)"
 collection: work_experience
 permalink: /work_experience/ordr-sde-intern/
 start: 2020-11

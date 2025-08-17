@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CoMpK — Intra-process Isolation"
+title: "CoMpK"
 collection: projects
 permalink: /projects/compk/
 year: 2022
