@@ -22,7 +22,7 @@ repository               : "https://github.com/arulthileeban/arulthileeban.githu
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "linkedin.jpeg"
   name             : "Arul Thileeban Sagayam"
   # pronouns         : # example: "she/her"
   bio              : ""
@@ -213,16 +213,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  work_experience:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
 

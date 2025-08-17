@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% assign project_items = site.projects | sort: 'start' | reverse %}
+{% for post in project_items %}
+  {% include archive-single.html %}
+{% endfor %}
+

@@ -5,11 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Activities"
-    url: /activities/
 
   - title: "Work Experience"
     url: /work-experience/
 
   - title: "Research"
     url: /research/
+
+  - title: "Activities"
+    url: /activities/
+
+  - title: "Projects"
+    url: /projects/

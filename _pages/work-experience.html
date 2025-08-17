@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.work_experience %}
+{% assign work_items = site.work_experience | sort: 'start' | reverse %}
+{% for post in work_items %}
   {% include archive-single.html %}
 {% endfor %}
 
