@@ -9,7 +9,7 @@ author_profile: true
 
 ## Technical Program Committee
 
-- Commitee member for AiSec 2025 (Top Reviewer)
+- Commitee member for AiSec 2025
 - Committee member for DeMeSSAI 2025
 - Committee member for AIoTS 2025
 - Committee member for IEEE CSR 2025
