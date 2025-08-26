@@ -20,3 +20,7 @@ author_profile: true
 - Artifact Evaluation Committee member for ASPLOS 2025
 - Artifact Evaluation Committee member for SysTeX 2025
 - Artifact Evaluation Committee member for ‹Programming› 2025
+
+## Memberships 
+
+- Web Standards Group, focusing on CORS
