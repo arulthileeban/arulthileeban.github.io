@@ -9,7 +9,7 @@ author_profile: true
 
 ## Technical Program Committee
 
-- Commitee member for AiSec 2025
+- Commitee member for AiSec 2025 (Top Reviewer)
 - Committee member for DeMeSSAI 2025
 - Committee member for AIoTS 2025
 - Committee member for IEEE CSR 2025
@@ -20,6 +20,7 @@ author_profile: true
 - Artifact Evaluation Committee member for ASPLOS 2025
 - Artifact Evaluation Committee member for SysTeX 2025
 - Artifact Evaluation Committee member for ‹Programming› 2025
+- Artifact Evaluation Committee member for IEEE S&P	2026
 
 ## Memberships 
 
